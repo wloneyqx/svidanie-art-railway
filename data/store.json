@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "slug": "the-heirloom",
+      "name": "Portret pe panza",
+      "description": "Portret personalizat pe panza premium, pregatit pentru rama si pentru un cadou memorabil.",
+      "price": 299,
+      "compareAtPrice": 369,
+      "salePrice": 299,
+      "salePercent": 19,
+      "isOnSale": true,
+      "imageUrl": "/uploads/products/gallery/portret-panza-1.jpg",
+      "galleryImageUrls": [
+        "/uploads/products/gallery/portret-panza-1.jpg",
+        "/uploads/products/gallery/portret-panza-2.jpg",
+        "/uploads/products/gallery/portret-panza-3.jpg",
+        "/uploads/products/gallery/portret-panza-4.jpg",
+        "/uploads/products/gallery/portret-panza-5.jpg"
+      ],
+      "material": "canvas",
+      "category": "Custom Portrait",
+      "occasion": "Family Tributes",
+      "theme": null,
+      "active": true,
+      "topSellerRank": 1,
+      "createdAt": "2026-09-17T21:09:10.294Z",
+      "updatedAt": "2026-09-17T21:09:10.294Z",
+      "variants": []
+    },
+    {
+      "id": "p2",
+      "slug": "modern-radiance",
+      "name": "Portret pe metal",
+      "description": "Portret luminos pe aluminiu, cu finisaj modern, rezistent si potrivit pentru interioare minimaliste.",
+      "price": 349,
+      "compareAtPrice": null,
+      "salePrice": null,
+      "salePercent": null,
+      "isOnSale": false,
+      "imageUrl": "/uploads/products/gallery/portret-metal-1.png",
+      "galleryImageUrls": [
+        "/uploads/products/gallery/portret-metal-1.png",
+        "/uploads/products/gallery/portret-metal-2.png",
+        "/uploads/products/gallery/portret-metal-3.png",
+        "/uploads/products/gallery/portret-metal-4.png",
+        "/uploads/products/gallery/portret-metal-5.png"
+      ],
+      "material": "metal",
+      "category": "Custom Portrait",
+      "occasion": "Anniversaries",
+      "theme": null,
+      "active": true,
+      "topSellerRank": 2,
+      "createdAt": "2026-09-17T21:09:10.294Z",
+      "updatedAt": "2026-09-17T21:09:10.294Z",
+      "variants": []
+    },
+    {
+      "id": "p6",
+      "slug": "threaded-legacy",
+      "name": "String art 50x50",
+      "description": "Portret din fire pentru fotografie de familie, nunta sau cadou personalizat cu impact vizual.",
+      "price": 999,
+      "compareAtPrice": 1199,
+      "salePrice": 999,
+      "salePercent": 17,
+      "isOnSale": true,
+      "imageUrl": "/uploads/products/gallery/string-art-50x50-1.png",
+      "galleryImageUrls": [
+        "/uploads/products/gallery/string-art-50x50-1.png",
+        "/uploads/products/gallery/string-art-50x50-2.png",
+        "/uploads/products/gallery/string-art-50x50-3.png",
+        "/uploads/products/gallery/string-art-50x50-4.png",
+        "/uploads/products/gallery/string-art-50x50-5.png"
+      ],
+      "material": "string",
+      "category": "Custom Portrait",
+      "occasion": "Family Tributes",
+      "theme": null,
+      "active": true,
+      "topSellerRank": 3,
+      "createdAt": "2026-09-17T21:09:10.294Z",
+      "updatedAt": "2026-09-17T21:09:10.294Z",
+      "variants": []
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "orderNumber": "SV-2026-00001",
+      "firstName": "Vlad",
+      "lastName": "Bt",
+      "email": "vladbt719@gmail.com",
+      "phone": "05957497865",
+      "country": "Republica Moldova",
+      "city": "Donduseni",
+      "address": "kirov 10",
+      "postalCode": "5102",
+      "subtotal": 898,
+      "shippingCost": 0,
+      "total": 898,
+      "status": "CONFIRMED",
+      "paymentStatus": "PAID",
+      "stripePaymentIntentId": null,
+      "createdAt": "2026-09-22T18:46:57.265Z",
+      "updatedAt": "2026-09-22T18:48:31.198Z",
+      "items": [
+        {
+          "id": "item_09eed356-4c5a-4d39-90a7-de09093f3ed8",
+          "orderId": 1,
+          "productId": "p2",
+          "variantId": null,
+          "productName": "Portret pe metal",
+          "productImageUrl": "/uploads/products/gallery/portret-metal-1.png",
+          "material": "metal",
+          "size": "30x40",
+          "style": "Portret pe metal",
+          "unitPrice": 449,
+          "quantity": 2,
+          "lineTotal": 898,
+          "uploadedPhotoUrl": "/uploads/customers/5a410c31-4d36-40a2-92d9-7e049546f1d1.png",
+          "previewImageUrl": null,
+          "customizationNote": "",
+          "createdAt": "2026-09-22T18:46:57.265Z"
+        }
+      ]
+    }
+  ],
+  "adminUsers": [],
+  "nextOrderId": 2
+}
